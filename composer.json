@@ -1,0 +1,15 @@
+{
+    "name": "cate/tree",
+    "description": "tree",
+    "authors": [
+        {
+            "name": "sea-co",
+            "email": "972916579@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	    "php": ">=7.0.0",
+        "illuminate/database": "~5.5"
+	}
+}
